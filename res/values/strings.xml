@@ -2,6 +2,10 @@
 <resources>
     <string name="app_name">DashClock Owner Info Extension</string>
     <string name="app_name_short">Owner info</string>
-    <string name="app_description">Shows owner info and emergency contact information.</string>
-    <string name="default_info">If lost, please return to: %1$s</string>
+    <string name="app_description">Shows device owner info on your widgets.</string>
+
+    <string name="default_info">If lost, please return to: %1$s &lt;%2$s&gt;.</string>
+    <string name="default_name">Unknown</string>
+    <string name="default_email">Unknown</string>
+    <string name="default_widget_text">Please edit owner info in Dash Clock settings.</string>
 </resources>
