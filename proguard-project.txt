@@ -11,8 +11,6 @@
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
 # Add any project specific keep options here:
-
-# Keep original line numbers in stacktraces
 -keepattributes SourceFile,LineNumberTable
 
 # Remove debug logging
